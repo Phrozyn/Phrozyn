@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with Quantum Security and contribute to their XDR+SOC platform.
+- 💻 Most of my code is private, but from time to time I may contribute or add to public projects.
+- ⚡ Fun fact: I worked for Mozilla as a member of their Information Security team which is where I began learning to code in Python and met some amazing folks.
+
+[![Phrozyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phrozyn&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Phrozyn/Phrozyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
