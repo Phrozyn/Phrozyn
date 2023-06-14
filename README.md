@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Quantum Security and contribute to their XDR+SOC platform.
+- 🔭 I’m currently working with Armor Defense and contribute to their XDR+SOC platform.
 - 💻 Most of my code is private, but from time to time I may contribute or add to public projects.
 - ⚡ Fun fact: I worked for Mozilla as a member of their Information Security team which is where I began learning to code in Python and met some amazing folks.
 
