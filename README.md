@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Armor Defense and lead an engineering team to streamline and improve SOC workflows
+- 🔭 I’m currently working with Armor Defense and lead multiple engineering teams across various disciplines.
 - 💻 Most of my code is private, but from time to time I may contribute or add to public projects.
 - ⚡ Fun fact: I worked for Mozilla as a member of their Information Security team which is where I began learning to code in Python and met some amazing folks.
 
