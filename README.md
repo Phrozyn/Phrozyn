@@ -6,7 +6,7 @@
 
 [![Phrozyn's GitHub stats](https://github-stats-extended.vercel.app/api?username=Phrozyn)](https://github.com/stats-organization/github-stats-extended))
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phrozyn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.devomb.com/?username=Phrozyn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Phrozyn/Phrozyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
