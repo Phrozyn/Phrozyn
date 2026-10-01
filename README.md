@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Armor Defense and lead multiple engineering teams across various disciplines.
+- 🔭 I’m currently looking for my next role and excited to see what the future brings.
 - 💻 Most of my code is private, but from time to time I may contribute or add to public projects.
 - ⚡ Fun fact: I worked for Mozilla as a member of their Information Security team which is where I began learning to code in Python and met some amazing folks.
 
